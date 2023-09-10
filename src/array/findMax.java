@@ -1,6 +1,6 @@
 package array;
 
-public class arrayConcept_1 {
+public class findMax {
     static int[] index = {1, 2335, 33, 42, 4, 5, 35, 667,};
 
     public static void main(String[] args) {

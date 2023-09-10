@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class arrayConcept_5 {
+public class mergeArray1 {
     public static void main(String[] args) {
         int[] index={3,3,4,4};
         int[] index2={9,8,7,6};

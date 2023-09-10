@@ -2,7 +2,7 @@ package array.array;
 
 import java.util.Arrays;
 
-public class arrayConcept_2 {
+public class sortArray {
     public static void main(String[] args) {
         int[] org_arr={3,5,6,2,3,9};
         System.out.println("this is original array ");

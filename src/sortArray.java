@@ -2,7 +2,7 @@ import java.util.Arrays;
 
 
 
-public class arrayConcept_3 {
+public class sortArray {
     public static void main(String[] args) {
         sortArr();
 
