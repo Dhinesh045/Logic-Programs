@@ -2,7 +2,7 @@ package array;
 
 import java.util.Arrays;
 
-public class arrayRotation {
+public class arrayRotationLeft {
     static void leftRotate(int[] inputArray, int n)
 {
     System.out.println("Input Array Before Rotation :");
